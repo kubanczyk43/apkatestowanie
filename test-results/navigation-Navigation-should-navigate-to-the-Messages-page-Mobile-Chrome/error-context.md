@@ -1,0 +1,235 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - navigation [ref=e2]:
+    - generic [ref=e4]:
+      - link "SL" [ref=e6] [cursor=pointer]:
+        - /url: /
+        - generic [ref=e7]: SL
+      - button "Dr Jan Kowalski" [ref=e8] [cursor=pointer]:
+        - img "Dr Jan Kowalski" [ref=e9]
+        - img
+  - generic [ref=e11]:
+    - complementary [ref=e12]:
+      - generic [ref=e13]:
+        - generic [ref=e16]:
+          - img "Dr Jan Kowalski" [ref=e17] [cursor=pointer]
+          - generic [ref=e18]:
+            - heading "Dr Jan Kowalski" [level=3] [ref=e19] [cursor=pointer]
+            - paragraph [ref=e20]: PhD in Artificial Intelligence
+            - paragraph [ref=e21]: TechCorp Research Lab
+          - generic [ref=e22]:
+            - generic [ref=e23]:
+              - generic [ref=e24]:
+                - img [ref=e25]
+                - generic [ref=e28]: Wyświetlenia profilu
+              - generic [ref=e29]: "892"
+            - generic [ref=e30]:
+              - generic [ref=e31]:
+                - img [ref=e32]
+                - generic [ref=e35]: Połączenia
+              - generic [ref=e36]: "2"
+            - generic [ref=e37]:
+              - generic [ref=e38]:
+                - img [ref=e39]
+                - generic [ref=e42]: Cytowania
+              - generic [ref=e43]: "145"
+        - generic [ref=e45]:
+          - link "Moje artykuły 2" [ref=e46] [cursor=pointer]:
+            - /url: /articles
+            - img
+            - generic [ref=e47]: Moje artykuły
+            - generic [ref=e48]: "2"
+          - link "Zapisane 0" [ref=e49] [cursor=pointer]:
+            - /url: /saved
+            - img
+            - generic [ref=e50]: Zapisane
+            - generic [ref=e51]: "0"
+          - link "Grupy 3" [ref=e52] [cursor=pointer]:
+            - /url: /network
+            - img
+            - generic [ref=e53]: Grupy
+            - generic [ref=e54]: "3"
+    - main [ref=e55]:
+      - generic [ref=e56]:
+        - generic [ref=e57]:
+          - img "User avatar" [ref=e58]
+          - button "Podziel się odkryciem..." [ref=e59] [cursor=pointer]
+        - generic [ref=e60]:
+          - button "Zdjęcie" [ref=e61] [cursor=pointer]:
+            - img
+            - generic [ref=e62]: Zdjęcie
+          - button "Video" [ref=e63] [cursor=pointer]:
+            - img
+            - generic [ref=e64]: Video
+          - button "Artykuł" [ref=e65] [cursor=pointer]:
+            - img
+            - generic [ref=e66]: Artykuł
+          - button "Oferta" [ref=e67] [cursor=pointer]:
+            - img
+            - generic [ref=e68]: Oferta
+      - generic [ref=e69]:
+        - generic [ref=e70]:
+          - generic [ref=e71]:
+            - generic [ref=e72]:
+              - generic [ref=e73]:
+                - img "Dr Anna Nowak" [ref=e74]
+                - generic [ref=e75]:
+                  - heading "Dr Anna Nowak" [level=3] [ref=e76]
+                  - paragraph [ref=e77]: Professor of Computer Science
+                  - paragraph [ref=e78]: 3h
+              - button [ref=e79] [cursor=pointer]:
+                - img
+            - paragraph [ref=e80]: "📚 Właśnie opublikowałam nowy artykuł w Nature: \"Deep Learning Approaches to Quantum Computing Optimization\" Po 2 latach intensywnych badań, nasz zespół opracował nową metodę optymalizacji algorytmów kwantowych przy użyciu głębokich sieci neuronowych. Wyniki pokazują 34% poprawę efektywności obliczeń kwantowych w praktycznych zastosowaniach. Dziękuję wszystkim współautorom i recenzentom za wspaniałą współpracę! #QuantumComputing #DeepLearning #Research #AI #Science"
+          - img "Post content" [ref=e81]
+          - generic [ref=e83]:
+            - generic [ref=e84]: 2 polubień
+            - generic [ref=e85]: 0 komentarzy • 12 udostępnień
+          - generic [ref=e86]:
+            - button "Lubię to" [ref=e87] [cursor=pointer]:
+              - img
+              - generic [ref=e88]: Lubię to
+            - button "Komentuj" [ref=e89] [cursor=pointer]:
+              - img
+              - generic [ref=e90]: Komentuj
+            - button "Udostępnij" [ref=e91] [cursor=pointer]:
+              - img
+              - generic [ref=e92]: Udostępnij
+            - button "Zapisz" [ref=e93] [cursor=pointer]:
+              - img
+              - generic [ref=e94]: Zapisz
+        - generic [ref=e95]:
+          - generic [ref=e96]:
+            - generic [ref=e97]:
+              - generic [ref=e98]:
+                - img "Prof. Piotr Wiśniewski" [ref=e99]
+                - generic [ref=e100]:
+                  - heading "Prof. Piotr Wiśniewski" [level=3] [ref=e101]
+                  - paragraph [ref=e102]: Research Director in Quantum Computing
+                  - paragraph [ref=e103]: 5h
+              - button [ref=e104] [cursor=pointer]:
+                - img
+            - generic [ref=e105]:
+              - generic [ref=e106]:
+                - img [ref=e107]
+                - generic [ref=e110]: Oferta pracy
+              - heading "Postdoctoral Researcher - Quantum ML" [level=4] [ref=e111]
+              - paragraph [ref=e112]: Stanford Quantum Computing Lab • Stanford, CA (hybrid)
+              - paragraph [ref=e113]: $75,000 - $90,000
+            - paragraph [ref=e114]: "🎓 Rekrutacja do naszego zespołu badawczego! Poszukujemy postdoców do projektu \"Quantum Machine Learning Applications in Drug Discovery\". Projekt finansowany przez NIH, budżet $2M, 3-letni grant. Wymagania: ✅ PhD w informatyce, fizyce lub dziedzinie pokrewnej ✅ Doświadczenie z quantum computing lub ML ✅ Publikacje w renomowanych czasopismach ✅ Znajomość Python, Qiskit/Cirq Co oferujemy: 💰 Konkurencyjne wynagrodzenie ($75k-$90k) 🏖️ Elastyczny czas pracy 🌍 Możliwość pracy zdalnej 📚 Budżet na konferencje i szkolenia Aplikacje przyjmujemy do 31 stycznia. Link w komentarzu!"
+          - generic [ref=e116]:
+            - generic [ref=e117]: 2 polubień
+            - generic [ref=e118]: 0 komentarzy • 24 udostępnień
+          - generic [ref=e119]:
+            - button "Lubię to" [ref=e120] [cursor=pointer]:
+              - img
+              - generic [ref=e121]: Lubię to
+            - button "Komentuj" [ref=e122] [cursor=pointer]:
+              - img
+              - generic [ref=e123]: Komentuj
+            - button "Udostępnij" [ref=e124] [cursor=pointer]:
+              - img
+              - generic [ref=e125]: Udostępnij
+            - button "Zapisz" [ref=e126] [cursor=pointer]:
+              - img
+              - generic [ref=e127]: Zapisz
+        - generic [ref=e128]:
+          - generic [ref=e129]:
+            - generic [ref=e130]:
+              - generic [ref=e131]:
+                - img "Dr Maria Kowalczyk" [ref=e132]
+                - generic [ref=e133]:
+                  - heading "Dr Maria Kowalczyk" [level=3] [ref=e134]
+                  - paragraph [ref=e135]: Biomedical Engineer
+                  - paragraph [ref=e136]: 1d
+              - button [ref=e137] [cursor=pointer]:
+                - img
+            - paragraph [ref=e138]: "🔬 Fascynujące wyniki z naszego ostatniego eksperymentu! Testowaliśmy nową generację bionicznych protez z interfejsem mózg-komputer. Pacjenci byli w stanie kontrolować protezy z 98% dokładnością po zaledwie 2 tygodniach treningu. Technologia opiera się na dekodowaniu sygnałów EEG w czasie rzeczywistym przy użyciu transformerów neuronowych. To może być przełom w rehabilitacji osób po amputacjach. Pełne wyniki wkrótce w Journal of NeuroEngineering and Rehabilitation. #Bioengineering #BCI #Prosthetics #Neuroscience #Innovation"
+          - img "Post content" [ref=e139]
+          - iframe [ref=e141]:
+            - generic [active] [ref=f1e1]:
+              - generic "YouTube Video Player" [ref=f1e3]
+              - generic [ref=f1e5]:
+                - generic:
+                  - generic:
+                    - button "Play video" [ref=f1e10] [cursor=pointer]:
+                      - generic [ref=f1e13]:
+                        - img
+                    - button "Hide player controls" [ref=f1e14] [cursor=pointer]
+                    - generic [ref=f1e16]:
+                      - generic [ref=f1e21]:
+                        - generic [ref=f1e22]:
+                          - link "Rick Astley - Never Gonna Give You Up (Official Video) (4K Remaster)" [ref=f1e23] [cursor=pointer]:
+                            - /url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+                          - link "Rick Astley" [ref=f1e24] [cursor=pointer]:
+                            - /url: /channel/UCuAXFkgsw1L7xaCfnd5JJOw
+                            - generic [ref=f1e25]: Rick Astley
+                        - generic [ref=f1e26]:
+                          - button [ref=f1e27] [cursor=pointer]
+                          - generic [ref=f1e29]:
+                            - generic: Rick Astley
+                            - generic: 4.44M subscribers
+                      - generic [ref=f1e30]:
+                        - button "Share" [ref=f1e33] [cursor=pointer]:
+                          - generic [ref=f1e37]:
+                            - img
+                        - link "Watch on YouTube" [ref=f1e44] [cursor=pointer]:
+                          - /url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+                          - generic [ref=f1e47]:
+                            - text: Watch on
+                            - img [ref=f1e49]:
+                              - generic [ref=f1e51]:
+                                - img
+              - generic:
+                - dialog "Dialog"
+                - dialog "Dialog"
+          - generic [ref=e143]:
+            - generic [ref=e144]: 0 polubień
+            - generic [ref=e145]: 0 komentarzy • 8 udostępnień
+          - generic [ref=e146]:
+            - button "Lubię to" [ref=e147] [cursor=pointer]:
+              - img
+              - generic [ref=e148]: Lubię to
+            - button "Komentuj" [ref=e149] [cursor=pointer]:
+              - img
+              - generic [ref=e150]: Komentuj
+            - button "Udostępnij" [ref=e151] [cursor=pointer]:
+              - img
+              - generic [ref=e152]: Udostępnij
+            - button "Zapisz" [ref=e153] [cursor=pointer]:
+              - img
+              - generic [ref=e154]: Zapisz
+        - generic [ref=e155]:
+          - generic [ref=e156]:
+            - generic [ref=e157]:
+              - generic [ref=e158]:
+                - img "Dr Anna Nowak" [ref=e159]
+                - generic [ref=e160]:
+                  - heading "Dr Anna Nowak" [level=3] [ref=e161]
+                  - paragraph [ref=e162]: Professor of Computer Science
+                  - paragraph [ref=e163]: 2d
+              - button [ref=e164] [cursor=pointer]:
+                - img
+            - paragraph [ref=e165]: "📊 Ciekawe dane z naszego surveya o zastosowaniu AI w nauce: • 89% naukowców uważa AI za kluczowy tool w swojej pracy • 67% używa ML do analizy danych regularnie • 45% obawia się etycznych implikacji AI • 23% planuje integrację quantum computing z AI w ciągu roku Badanie objęło 2,500 naukowców z 50 krajów. Co myślicie o tych wynikach? #ArtificialIntelligence #Research #DataScience #Science"
+          - generic [ref=e167]:
+            - generic [ref=e168]: 1 polubień
+            - generic [ref=e169]: 0 komentarzy • 5 udostępnień
+          - generic [ref=e170]:
+            - button "Lubię to" [ref=e171] [cursor=pointer]:
+              - img
+              - generic [ref=e172]: Lubię to
+            - button "Komentuj" [ref=e173] [cursor=pointer]:
+              - img
+              - generic [ref=e174]: Komentuj
+            - button "Udostępnij" [ref=e175] [cursor=pointer]:
+              - img
+              - generic [ref=e176]: Udostępnij
+            - button "Zapisz" [ref=e177] [cursor=pointer]:
+              - img
+              - generic [ref=e178]: Zapisz
+  - region "Notifications alt+T"
+  - button "Open Next.js Dev Tools" [ref=e184] [cursor=pointer]:
+    - img [ref=e185]
+  - alert [ref=e188]
+```
